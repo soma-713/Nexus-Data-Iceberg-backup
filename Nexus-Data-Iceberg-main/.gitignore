@@ -1,0 +1,9 @@
+minio/*
+env/*
+input_data/*
+*checkpoint*.ipynb
+*.csv
+*.parquet
+*.txt
+*.xlsx
+postgres_data/*
